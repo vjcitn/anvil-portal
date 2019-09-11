@@ -72,7 +72,8 @@ The portal working group organizes and publishes the AnVIL website.
 - Kevin Osborn (UCSC)
 - Dave Rogers (UCSC, Clever Canary)
 - Fran McDade (Clever Canary)
-- Enis Afgan (JHU), Mo Heydarian (JHU)
+- Enis Afgan (JHU)
+- Mo Heydarian (JHU)
 - Abbey George (UChicago)
 - Keith Corbin (Broad)
 
@@ -104,5 +105,6 @@ The technical working group of the AnVIL provides direction and recommendations 
 - Clare Bernard (Broad)
 - Enis Afgan (JHU)
 - Martin Morgan (RPCI)
-- Vince Carey (HMS),
+- Vince Carey (HMS)
 - Bob Grossman (UC)
+- Benedict Paten (UCSC)
